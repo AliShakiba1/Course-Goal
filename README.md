@@ -1,8 +1,8 @@
-#  Expense Tracker 
+#  Goal Checker
 
 ## 01-starting-setup
 
 - You can add expenese in evey date and filter them and see the how much you expene with chart  
 
-### live demo :  [Expense Tracker ](https://expense-tracker-two-ivory.vercel.app "The best Expense Traker you find")
+### live demo :  [Goal Checker ](https://course-goal-blond.vercel.app/ "The best goal checker you find")
 
